@@ -7,5 +7,5 @@ build/
 public/dist/
 
 config.js
-server/lib/config-env.js
+
 package-lock.json
