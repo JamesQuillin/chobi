@@ -5,7 +5,7 @@ bower_components/
 
 build/
 public/dist/
-
+server/lib/config-env.js
 config.js
 
 package-lock.json
