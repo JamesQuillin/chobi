@@ -1,12 +1,12 @@
-# Chobi
+# Chobi ver. 2
 
 > Supercharged Photo Album
 
 ## Team
 
-  - __Product Owner__: Scott Rudiger
-  - __Scrum Master__: Kenneth Marshall
-  - __Development Team Members__: Kevin MacFarlane, Placid Rodrigues
+  - __Product Owner__: Ciaran Conners
+  - __Scrum Master__: Patrick Tang
+  - __Development Team Members__: James Quillin, Sheena Ramirez
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ npm run bundle
 npm run start-dev
 ```
 
-## Legacy Group Instructions
+## Contributing
 
 > - Sign up for a Cloudinary API key
 > - Create a mongoose URI
@@ -62,12 +62,5 @@ exports.cloudinary = {
 
 exports.mongooseUri = 'mongodb://localhost/example';
 ```
-
-### Roadmap
-
-View the project roadmap [here](https://github.com/hrr24-gallifrey/chobi/issues)
-
-
-## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
